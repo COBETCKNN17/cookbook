@@ -1,3 +1,3 @@
 # cookbook
 
-How Git Works Pluralsight practice
+How Git Works Pluralsight course practice
